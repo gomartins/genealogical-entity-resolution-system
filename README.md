@@ -8,12 +8,11 @@
 - Update `BASE_DIRECTORY` in constants.py to point to the data directory
 
 ### Directory structure:
-- **src**: Source code 
-- **data**: Datasets and configuration files used
-- **src/tests**: Test classes
-- **src/tests/results_test.py**: Test class containing the final results for Entity Resolution & others
+- **/data**: Datasets and configuration files used
+- **/tests**: Test classes
+- **/tests/results_test.py**: Test class containing the final results for Entity Resolution & others
 
-### Dataset description:
+### Datasets description:
 - **annotated_wikipedia_articles.zip**:
   - 395 Wikipedia articles from U.S. presidents and close relationships annotated for Named Entity Recognition (person) and Coreference Resolution tasks. Can be imported into Doccano or similar tools.   
 - **wikipedia_articles_html.zip**:
