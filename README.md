@@ -14,7 +14,7 @@
 
 ### Datasets description:
 - **annotated_wikipedia_articles.zip**:
-  - 395 Wikipedia articles from U.S. presidents and close relationships annotated for Named Entity Recognition (person) and Coreference Resolution tasks. Can be imported into Doccano or similar tools.   
+  - 375 Wikipedia articles from U.S. presidents and close relationships annotated for Named Entity Recognition (person) and Coreference Resolution tasks. Can be imported into Doccano or similar tools.   
 - **wikipedia_articles_html.zip**:
   - Original Wikipedia articles in a HTML format. 
 - **neo4j.zip**:
